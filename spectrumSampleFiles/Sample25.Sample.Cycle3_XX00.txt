@@ -1,0 +1,130 @@
+﻿#Date: 2022-07-14 12:41:57
+#Source: Sample25.Sample.Cycle3
+
+#Header Information:
+Alias,Sample25.Sample.Cycle3
+Data Type,SPECTRUM
+X Axis Unit,nm
+Y Axis Unit,%T
+X Start Value,900
+X End Value,400
+X Interval,-10
+Number of Points,51
+Description,Test
+Instrument Model,Lambda 1050+
+Instrument Serial,1060L2011032
+Software Revision,PerkinElmer UV WinLab 7.1.0.68 / 2.02.11 Lambda 900 UV/VIS/NIR, May 23 2018 11:23:04
+Scan Speed (nm/min),0
+Response (s),0
+Slit Width (nm),3350
+Band Width (nm),0
+Sensitivity,0
+Lamps,UV/VIS
+Cycle Time (s),1
+Cycle Number,1
+Cycles ,4
+Accessory,CommonBeamDepol,RBeamAtt,SBeamAtt,uv/vis/nir detector, TDS WB InGaAs Detector
+Cell Number,0
+Auto Samp,0
+Actual Peltier Temperature (°C),0
+Wavelength (nm),0
+UV/VIS Slit Mode,Program
+NIR Slit Mode,Program
+NIR Slit Width,3350
+UV/VIS Integration Time (s),3350
+NIR Integration Time (s),3350
+UV/VIS Gain,0
+NIR Gain,3350
+Baseline, 
+Baseline Date, 
+Zero-T Correction, 
+Autozero Offset,0
+Reflectance Correction, 
+Monochromator Change at (nm),860.8
+Lamp change at (nm),319.2
+Detector Change at (nm),1800.8
+Sample Beam Position,Front
+Common Beam Mask,25
+Common Beam Depolarizer,on
+Attenuators,S:100 R:100
+Double Polarizer/Depolarizer,0
+Sipper Sample Time (s),0
+Sipper Delay Time (s),0
+Sipper Flush/Return Time (s),0
+Sipper Flush/Return, 
+AutoSampler Depth (mm),0
+AutoSampler Return Position, 
+Cell Changer Type, 
+Cell Changer Carousel, 
+Cell Changer Reference Cell,0
+External Lamp, 
+External Detector, 
+External Probe Temperature (°C),0
+Target Peltier Temperature (°C),0
+URA Angle (°),0
+URA Spot Width (mm),0
+URA Spot Length (mm),0
+URA Relative Mode, 
+URA Transmittance Mode, 
+URA Serial Number, 
+Polarizer Pathlength, 
+Sample Pathlength,0
+Baseline Pathlength,0
+External Probe Temperature Cycles(°C),
+Actual Peltier Temperature Cycles (°C),
+X Position,0
+Y Position,0
+
+#Data:
+nm,%T
+900,41.285637
+890,41.704533
+880,42.345636
+870,43.248959
+860,45.24868
+850,46.022384
+840,46.841703
+830,47.808817
+820,48.62608
+810,49.580006
+800,50.589868
+790,51.525458
+780,52.524715
+770,53.412454
+760,54.331595
+750,55.167296
+740,55.871022
+730,56.491716
+720,56.834299
+710,56.87455
+700,56.534094
+690,55.76408
+680,54.748012
+670,53.670244
+660,53.012462
+650,52.862153
+640,53.045815
+630,53.315909
+620,53.45609
+610,53.446635
+600,53.454575
+590,53.739958
+580,54.473435
+570,55.496343
+560,56.219979
+550,56.622462
+540,56.687714
+530,56.383528
+520,55.980515
+510,55.62615
+500,55.388593
+490,55.360126
+480,55.537292
+470,55.801516
+460,55.358187
+450,53.17756
+440,51.212601
+430,51.916226
+420,50.928524
+410,51.161748
+400,52.718556
